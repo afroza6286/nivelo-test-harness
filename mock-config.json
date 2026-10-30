@@ -1,0 +1,12 @@
+{
+  "bills_by_payment": {
+    "poly_payment_1": [
+      {
+        "bill_id": "bill_wages_1",
+        "balance": 65553.21
+      }
+    ]
+  },
+  "bill_actions": {},
+  "ledger_actions": []
+}

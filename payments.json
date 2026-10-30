@@ -1,0 +1,9 @@
+[
+  {
+    "payment_id": "payment_1",
+    "payment_external_id": "poly_payment_1",
+    "payment_date": "2026-01-01",
+    "payment_amount": 65553.21,
+    "client_code": "cc108"
+  }
+]
